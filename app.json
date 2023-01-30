@@ -1,7 +1,7 @@
 {
       "name": "Fallen Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/7e5b79d224638c0d1a38f.jpg",
+      "logo": "https://te.legra.ph/file/2752523b23793a09d9c63.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -51,7 +51,7 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001647004968"
+         "value": "-1001802028874"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -66,12 +66,12 @@
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://te.legra.ph/file/7a155d0af1294990034be.mp4"
+         "value": "https://te.legra.ph/file/2752523b23793a09d9c63.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "Sexsuxassist"
+         "value": "TgFlash"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
@@ -81,7 +81,7 @@
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": "5802795983:AAFtocF-utPkBvF2d6ttMoxR8cu-26ZBhzo"
+         "value": "6080251945:AAE4mvykix0gkN7MbrhPeIm_kxVi7t5ZSSU"
       }
    }
 }
